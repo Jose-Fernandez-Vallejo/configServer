@@ -1,0 +1,4 @@
+server:
+  port: 8888
+some:
+  value: valor del servidor
